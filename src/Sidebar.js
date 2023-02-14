@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import "./Sidebar.css";
 
 function Sidebar() {
@@ -13,7 +13,7 @@ function Sidebar() {
             {/* SidebarOption */}
             {/* SidebarOption */}
 
-            {/* SidebarOption */}
+            {/* Button-> Tweet */}
              
         </div>
     );
