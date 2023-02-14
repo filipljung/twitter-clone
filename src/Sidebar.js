@@ -2,7 +2,7 @@ import react from "react";
 import "./Sidebar.css";
 
 function Sidebar() {
-    return (
+    return(
         <div className="sidebar">
             {/* Twitter icon */}
 
@@ -12,9 +12,11 @@ function Sidebar() {
             {/* SidebarOption */}
             {/* SidebarOption */}
             {/* SidebarOption */}
+
+            {/* SidebarOption */}
              
         </div>
-   );
+    );
 }
 
 export default Sidebar;
