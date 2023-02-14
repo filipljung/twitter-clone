@@ -6,7 +6,16 @@ function App() {
     // BEM 
     <div className="app">
       <h1> Welcome to Twitter-clone</h1>
-    </div>
+      
+      {/* Sidebar */}
+
+      {/* Feed*/}
+
+      {/* Widgets */}
+      
+      
+      
+      </div>
   );
 }
 
